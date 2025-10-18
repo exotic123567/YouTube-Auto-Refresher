@@ -14,7 +14,7 @@ This extension is a simple, set-and-forget solution that automates that one-time
 
 This error can occur for several reasons, but it's most commonly caused by an overly aggressive ad-blocker or privacy extension. In an effort to block YouTube's ads and trackers, these extensions can sometimes accidentally interfere with a script that is essential for the video player to load correctly on the first attempt. 
 
-<a width="591" height="353" alt="Image" src="https://github.com/user-attachments/assets/e94a1db6-eb67-4258-9900-c92c0b18d62e" href="https://www.reddit.com/r/youtube/comments/1lsev97/comment/n1r5lo1/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button"/>
+<img width="591" height="353" alt="Image" src="https://github.com/user-attachments/assets/e94a1db6-eb67-4258-9900-c92c0b18d62e" href="https://www.reddit.com/r/youtube/comments/1lsev97/comment/n1r5lo1/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button"/>
 
 This extension acts as a reliable workaround, forcing a clean load of the video page without requiring any manual intervention.
 
