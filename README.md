@@ -16,6 +16,8 @@ This error can occur for several reasons, but it's most commonly caused by an ov
 
 <img width="591" height="353" alt="Image" src="https://github.com/user-attachments/assets/e94a1db6-eb67-4258-9900-c92c0b18d62e" href="https://www.reddit.com/r/youtube/comments/1lsev97/comment/n1r5lo1/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button"/>
 
+[![Reddit Comment Screenshot](https://github.com/user-attachments/assets/e94a1db6-eb67-4258-9900-c92c0b18d62e)](https://www.reddit.com/r/youtube/comments/1lsev97/comment/n1r5lo1/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
 This extension acts as a reliable workaround, forcing a clean load of the video page without requiring any manual intervention.
 
 # Installation
