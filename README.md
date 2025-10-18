@@ -6,11 +6,15 @@ A lightweight browser extension that automatically refreshes YouTube video pages
 
 Have you ever encountered a frustrating issue where YouTube videos, especially when autoplaying in a playlist, fail to load and display a "Video unavailable" error? You probably noticed that manually refreshing the page or opening the link in a new tab fixes it, but this breaks the seamless experience of a music or video playlist.
 
+<img width="1919" height="946" alt="Image" src="https://github.com/user-attachments/assets/3879c9c0-85fd-40a5-b870-7395ffbd956f" />
+
 This extension is a simple, set-and-forget solution that automates that one-time refresh, ensuring your playlists continue without interruption.
 
 # Why Does This Happen?
 
-This error can occur for several reasons, but it's most commonly caused by an overly aggressive ad-blocker or privacy extension. In an effort to block YouTube's ads and trackers, these extensions can sometimes accidentally interfere with a script that is essential for the video player to load correctly on the first attempt.
+This error can occur for several reasons, but it's most commonly caused by an overly aggressive ad-blocker or privacy extension. In an effort to block YouTube's ads and trackers, these extensions can sometimes accidentally interfere with a script that is essential for the video player to load correctly on the first attempt. 
+
+<blockquote class="reddit-embed-bq" data-embed-height="320"><a href="https://www.reddit.com/r/youtube/comments/1lsev97/comment/n1r5lo1/">Comment</a><br> by<a href="https://www.reddit.com/user/Cozy_Stargazer/">u/Cozy_Stargazer</a> from discussion<a href="https://www.reddit.com/r/youtube/comments/1lsev97/please_help_me_video_unavailable_this_content/"></a><br> in<a href="https://www.reddit.com/r/youtube/">youtube</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
 
 This extension acts as a reliable workaround, forcing a clean load of the video page without requiring any manual intervention.
 
