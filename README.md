@@ -14,7 +14,7 @@ This extension is a simple, set-and-forget solution that automates that one-time
 
 This error can occur for several reasons, but it's most commonly caused by an overly aggressive ad-blocker or privacy extension. In an effort to block YouTube's ads and trackers, these extensions can sometimes accidentally interfere with a script that is essential for the video player to load correctly on the first attempt. 
 
-<blockquote class="reddit-embed-bq" data-embed-showtitle="true" data-embed-theme="dark" data-embed-height="360"><a href="https://www.reddit.com/r/youtube/comments/1lsev97/comment/n1r5lo1/">Comment</a><br> by<a href="https://www.reddit.com/user/Cozy_Stargazer/">u/Cozy_Stargazer</a> from discussion<a href="https://www.reddit.com/r/youtube/comments/1lsev97/please_help_me_video_unavailable_this_content/"></a><br> in<a href="https://www.reddit.com/r/youtube/">youtube</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+<img width="591" height="353" alt="Image" src="https://github.com/user-attachments/assets/e94a1db6-eb67-4258-9900-c92c0b18d62e" />
 
 This extension acts as a reliable workaround, forcing a clean load of the video page without requiring any manual intervention.
 
